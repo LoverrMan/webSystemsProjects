@@ -1,0 +1,12 @@
+{
+  " printWidth " : 100 ,
+  " tabWidth " : 2 ,
+  " useTabs " : false ,
+  " напів " : true ,
+  " singleQuote " : true ,
+  " TrailingComma " : " ES5 " ,
+  " bracketSpacing " : true ,
+  " jsxBracketSameLine " : false ,
+  " arrowParens " : " уникати " ,
+  " proseWrap " : " завжди "
+}
